@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile
 
 Myself Deepa S R
-I'm Intrested in Learning new technologies
+,I'm Intrested in Learning new technologies
 
 ## Tools and Technologies
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)

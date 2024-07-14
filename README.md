@@ -1,9 +1,8 @@
 # Welcome to My GitHub Profile
 
-Myself Deepa S R
-,I'm Intrested in Learning new technologies
+Myself Deepa S R,I'm a Computer Science Student and,I'm also Intrested in Learning new technologies.
 
-## Tools and Technologies
+## Languages and Tools
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)

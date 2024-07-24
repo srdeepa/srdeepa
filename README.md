@@ -15,6 +15,9 @@ Myself Deepa S R,I'm a Computer Science Student and,I'm also Intrested in Learni
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=flat)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FF9900?logo=jupyter&logoColor=white&style=flat)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srdeepa&show_icons=true&locale=en&layout=compact" alt="srdeepa" /></p>
+
+
 ## Quote
 > "Embarrassment is the cost of entry. If you aren't willing to look like a foolish beginner, you'll never become a graceful master."
 

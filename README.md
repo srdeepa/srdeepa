@@ -19,7 +19,8 @@ Myself Deepa S R,I'm a Computer Science Student and,I'm also Intrested in Learni
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=flat)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FF9900?logo=jupyter&logoColor=white&style=flat)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srdeepa&show_icons=true&locale=en&layout=compact" alt="srdeepa" /></p>
+[![Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srdeepa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Quote

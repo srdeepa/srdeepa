@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Myself Deepa S R,I'm a Computer Science Student and,I'm also Intrested in Learning new technologies.
+Myself Deepa S R, I'm a Computer Science Student, and I'm also interested in learning new technologies.
 
 ## Languages and Tools
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
@@ -19,15 +19,12 @@ Myself Deepa S R,I'm a Computer Science Student and,I'm also Intrested in Learni
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=flat)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FF9900?logo=jupyter&logoColor=white&style=flat)
 
-[![Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srdeepa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srdeepa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Quote
 > "Embarrassment is the cost of entry. If you aren't willing to look like a foolish beginner, you'll never become a graceful master."
 
 ![Profile views](https://komarev.com/ghpvc/?username=srdeepa)
 
-
 ## 📈 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=srdeepa&show_icons=true&theme=radical)
+![Deepa S R's GitHub stats](https://github-readme-stats.vercel.app/api?username=srdeepa&show_icons=true&theme=radical)

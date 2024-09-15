@@ -24,6 +24,3 @@ Myself Deepa S R, I'm a Computer Science Student, and I'm also interested in lea
 > "Embarrassment is the cost of entry. If you aren't willing to look like a foolish beginner, you'll never become a graceful master."
 
 ![Profile views](https://komarev.com/ghpvc/?username=srdeepa)
-
-## 📈 GitHub Stats
-![Deepa S R's GitHub stats](https://github-readme-stats.vercel.app/api?username=srdeepa&show_icons=true&theme=radical)
